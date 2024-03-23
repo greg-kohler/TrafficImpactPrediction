@@ -1,55 +1,4 @@
 Year,Season,Date,Time,At,Opponent,Location
-2010,  Basketball,11/02/2010,7:00 PM,Home,Northeastern State,Williams Arena
-2010,  Basketball,11/08/2010,7:00 PM,Home,Winona State,Williams Arena
-2010,  Basketball,11/12/2010,7:00 PM,Home,Wofford,Williams Arena
-2010,  Basketball,11/15/2010,8:00 PM,Home,Siena,Williams Arena
-2010,  Basketball,11/24/2010,7:00 PM,Home,North Dakota State,Williams Arena
-2010,  Basketball,11/29/2010,6:00 PM,Home,Virginia,Williams Arena
-2010,  Basketball,12/04/2010,7:00 PM,Home,Cornell,Williams Arena
-2010,  Basketball,12/11/2010,12:00 PM,Home,Eastern Kentucky,Williams Arena
-2010,  Basketball,12/15/2010,7:30 PM,Home,Akron,Williams Arena
-2010,  Basketball,12/23/2010,7:00 PM,Home,South Dakota St.,Williams Arena
-2011,  Basketball,01/04/2011,6:00 PM,Home,Indiana,Williams Arena
-2011,  Basketball,01/13/2011,6:00 PM,Home,Purdue,Williams Arena
-2011,  Basketball,01/16/2011,5:00 PM,Home,Iowa,Williams Arena
-2011,  Basketball,01/26/2011,7:30 PM,Home,Northwestern,Williams Arena
-2011,  Basketball,02/06/2011,1:00 PM,Home,Ohio State,Williams Arena
-2011,  Basketball,02/10/2011,8:00 PM,Home,Illinois,Williams Arena
-2011,  Basketball,02/22/2011,8:00 PM,Home,Michigan State,Williams Arena
-2011,  Basketball,02/26/2011,3:30 PM,Home,Michigan,Williams Arena
-2011,  Basketball,03/06/2011,12:00 PM,Home,Penn State,Williams Arena
-2011,  Basketball,11/01/2011,7:00 PM,Home,Bemidji St,Williams Arena
-2011,  Basketball,11/07/2011,7:00 PM,Home,Augustana (S.D.),Williams Arena
-2011,  Basketball,11/11/2011,7:00 PM,Home,Bucknell,Williams Arena
-2011,  Basketball,11/14/2011,7:00 PM,Home,South Dakota St.,Williams Arena
-2011,  Basketball,11/17/2011,6:00 PM,Home,Fairfield,Williams Arena
-2011,  Basketball,11/21/2011,7:00 PM,Home,Mount St. Mary's,Williams Arena
-2011,  Basketball,11/30/2011,8:15 PM,Home,Virginia Tech,Williams Arena
-2011,  Basketball,12/03/2011,1:15 PM,Home,USC,Williams Arena
-2011,  Basketball,12/06/2011,7:00 PM,Home,Appalachian State,Williams Arena
-2011,  Basketball,12/10/2011,12:00 PM,Home,St. Peter's,Williams Arena
-2011,  Basketball,12/13/2011,8:00 PM,Home,Central Michigan,Williams Arena
-2011,  Basketball,12/22/2011,7:00 PM,Home,North Dakota State,Williams Arena
-2012,  Basketball,01/04/2012,8:00 PM,Home,Iowa,Williams Arena
-2012,  Basketball,01/08/2012,5:00 PM,Home,Purdue,Williams Arena
-2012,  Basketball,01/22/2012,3:00 PM,Home,Northwestern,Williams Arena
-2012,  Basketball,01/28/2012,7:00 PM,Home,Illinois,Williams Arena
-2012,  Basketball,02/09/2012,6:00 PM,Home,Wisconsin,Williams Arena
-2012,  Basketball,02/14/2012,8:00 PM,Home,Ohio State,Williams Arena
-2012,  Basketball,02/22/2012,7:30 PM,Home,Michigan State,Williams Arena
-2012,  Basketball,02/26/2012,12:00 PM,Home,Indiana,Williams Arena
-2012,  Basketball,03/03/2012,11:30 AM,Home,Nebraska,Williams Arena
-2012,  Basketball,11/01/2012,7:00 PM,Home,"Minnesota State, Mankato",Williams Arena
-2012,  Basketball,11/05/2012,7:00 PM,Home,Southwest Baptist,Williams Arena
-2012,  Basketball,11/09/2012,7:00 PM,Home,American,Williams Arena
-2012,  Basketball,11/12/2012,7:00 PM,Home,Toledo,Williams Arena
-2012,  Basketball,11/15/2012,7:00 PM,Home,Tennessee State,Williams Arena
-2012,  Basketball,11/18/2012,6:00 PM,Home,Richmond,Williams Arena
-2012,  Basketball,12/01/2012,1:00 PM,Home,North Florida,Williams Arena
-2012,  Basketball,12/04/2012,7:00 PM,Home,South Dakota St.,Williams Arena
-2012,  Basketball,12/11/2012,8:00 PM,Home,North Dakota State,Williams Arena
-2012,  Basketball,12/22/2012,6:00 PM,Home,Lafayette,Williams Arena
-2012,  Basketball,12/31/2012,1:00 PM,Home,Michigan State,Williams Arena
 2013,  Basketball,01/06/2013,6:00 PM,Home,Northwestern,Williams Arena
 2013,  Basketball,01/17/2013,6:00 PM,Home,Michigan,Williams Arena
 2013,  Basketball,01/29/2013,8:00 PM,Home,Nebraska,Williams Arena
@@ -85,7 +34,6 @@ Year,Season,Date,Time,At,Opponent,Location
 2014,  Basketball,11/18/2014,7:00 PM,Home,Western Kentucky,Williams Arena
 2014,  Basketball,11/20/2014,7:00 PM,Home,Franklin Pierce,Williams Arena
 2014,  Basketball,11/22/2014,7:30 PM,Home,UMBC,Williams Arena
-2014,  Basketball,11/26/2014,6:00 PM,Home,St. John's,"New York, N.Y."
 2014,  Basketball,12/05/2014,6:00 PM,Home,Western Carolina,Williams Arena
 2014,  Basketball,12/08/2014,8:00 PM,Home,North Dakota,Williams Arena
 2014,  Basketball,12/10/2014,7:00 PM,Home,Southern,Williams Arena
@@ -160,20 +108,6 @@ Year,Season,Date,Time,At,Opponent,Location
 2018,  Basketball,02/06/2018,8:00 PM,Home,Nebraska,Williams Arena
 2018,  Basketball,02/13/2018,8:00 PM,Home,Michigan State,Williams Arena
 2018,  Basketball,02/21/2018,8:00 PM,Home,Iowa,Williams Arena
-2011, Football,09/10/2011,2:30 PM,Home,New Mexico State,Huntington Bank Stadium
-2011, Football,09/17/2011,2:30 PM,Home,Miami (Oh),Huntington Bank Stadium
-2011, Football,09/24/2011,6:00 PM,Home,North Dakota State,Huntington Bank Stadium
-2011, Football,10/22/2011,2:30 PM,Home,Nebraska,Huntington Bank Stadium
-2011, Football,10/29/2011,2:30 PM,Home,Iowa,Huntington Bank Stadium
-2011, Football,11/12/2011,2:30 PM,Home,Wisconsin,Huntington Bank Stadium
-2011, Football,11/26/2011,2:30 PM,Home,Illinois,Huntington Bank Stadium
-2012, Football,09/08/2012,11:00 AM,Home,New Hampshire,Huntington Bank Stadium
-2012, Football,09/15/2012,11:00 AM,Home,Western Michigan,Huntington Bank Stadium
-2012, Football,09/22/2012,7:00 PM,Home,Syracuse,Huntington Bank Stadium
-2012, Football,10/13/2012,11:00 AM,Home,Northwestern,Huntington Bank Stadium
-2012, Football,10/27/2012,2:30 PM,Home,Purdue,Huntington Bank Stadium
-2012, Football,11/03/2012,11:00 AM,Home,Michigan,Huntington Bank Stadium
-2012, Football,11/24/2012,2:30 PM,Home,Michigan State,Huntington Bank Stadium
 2013, Football,08/29/2013,6:00 PM,Home,UNLV,Huntington Bank Stadium
 2013, Football,09/14/2013,11:00 AM,Home,Western Illinois,Huntington Bank Stadium
 2013, Football,09/21/2013,11:00 AM,Home,San Jose State,Huntington Bank Stadium
@@ -216,42 +150,6 @@ Year,Season,Date,Time,At,Opponent,Location
 2018, Football,10/26/2018,7:00 PM,Home,Indiana,Huntington Bank Stadium
 2018, Football,11/10/2018,2:30 PM,Home,Purdue,Huntington Bank Stadium
 2018, Football,11/17/2018,11:00 AM,Home,Northwestern,Huntington Bank Stadium
-2011,   Hockey,10/02/2011,7:00 PM,Home,British Columbia,3M Arena at Mariucci
-2011,   Hockey,10/07/2011,7:00 PM,Home,Sacred Heart,3M Arena at Mariucci
-2011,   Hockey,10/08/2011,7:00 PM,Home,Sacred Heart,3M Arena at Mariucci
-2011,   Hockey,10/21/2011,6:00 PM,Home,Vermont,3M Arena at Mariucci
-2011,   Hockey,10/23/2011,1:00 PM,Home,Vermont,3M Arena at Mariucci
-2011,   Hockey,11/04/2011,7:00 PM,Home,North Dakota,3M Arena at Mariucci
-2011,   Hockey,11/05/2011,7:30 PM,Home,North Dakota,3M Arena at Mariucci
-2011,   Hockey,11/19/2011,7:00 PM,Home,St. Cloud State,3M Arena at Mariucci
-2011,   Hockey,12/02/2011,7:00 PM,Home,Minnesota State,3M Arena at Mariucci
-2011,   Hockey,12/03/2011,7:00 PM,Home,Minnesota State,3M Arena at Mariucci
-2011,   Hockey,12/09/2011,7:00 PM,Home,Michigan Tech,3M Arena at Mariucci
-2011,   Hockey,12/10/2011,8:00 PM,Home,Michigan Tech,3M Arena at Mariucci
-2011,   Hockey,12/30/2011,7:00 PM,Home,Niagara,3M Arena at Mariucci
-2011,   Hockey,12/31/2011,6:00 PM,Home,Northeastern,3M Arena at Mariucci
-2012,   Hockey,01/07/2012,7:00 PM,Home,Notre Dame,3M Arena at Mariucci
-2012,   Hockey,01/20/2012,7:00 PM,Home,Colorado College,3M Arena at Mariucci
-2012,   Hockey,01/21/2012,5:00 PM,Home,Colorado College,3M Arena at Mariucci
-2012,   Hockey,01/27/2012,7:00 PM,Home,St. Cloud State,3M Arena at Mariucci
-2012,   Hockey,02/17/2012,7:00 PM,Home,Bemidji St,3M Arena at Mariucci
-2012,   Hockey,02/18/2012,7:00 PM,Home,Bemidji St,3M Arena at Mariucci
-2012,   Hockey,03/02/2012,7:00 PM,Home,Wisconsin,3M Arena at Mariucci
-2012,   Hockey,03/03/2012,7:00 PM,Home,Wisconsin,3M Arena at Mariucci
-2012,   Hockey,03/09/2012,7:00 PM,Home,Alaska-Anchorage,3M Arena at Mariucci
-2012,   Hockey,03/10/2012,7:00 PM,Home,Alaska-Anchorage,3M Arena at Mariucci
-2012,   Hockey,10/06/2012,7:00 PM,Home,Lethbridge,3M Arena at Mariucci
-2012,   Hockey,10/12/2012,6:00 PM,Home,Michigan State,3M Arena at Mariucci
-2012,   Hockey,10/13/2012,8:00 PM,Home,Michigan State,3M Arena at Mariucci
-2012,   Hockey,10/26/2012,7:00 PM,Home,US Under-18,3M Arena at Mariucci
-2012,   Hockey,10/28/2012,1:00 PM,Home,Canisius,3M Arena at Mariucci
-2012,   Hockey,11/02/2012,7:00 PM,Home,Minnesota State,3M Arena at Mariucci
-2012,   Hockey,11/16/2012,7:00 PM,Home,Wisconsin,3M Arena at Mariucci
-2012,   Hockey,11/17/2012,8:00 PM,Home,Wisconsin,3M Arena at Mariucci
-2012,   Hockey,11/30/2012,7:00 PM,Home,Omaha,3M Arena at Mariucci
-2012,   Hockey,12/01/2012,7:00 PM,Home,Omaha,3M Arena at Mariucci
-2012,   Hockey,12/29/2012,7:00 PM,Home,Air Force,3M Arena at Mariucci
-2012,   Hockey,12/30/2012,7:00 PM,Home,Boston College,3M Arena at Mariucci
 2013,   Hockey,01/08/2013,7:00 PM,Home,Notre Dame,3M Arena at Mariucci
 2013,   Hockey,01/11/2013,8:00 PM,Home,Alaska-Anchorage,3M Arena at Mariucci
 2013,   Hockey,01/12/2013,7:00 PM,Home,Alaska-Anchorage,3M Arena at Mariucci
@@ -361,37 +259,6 @@ Year,Season,Date,Time,At,Opponent,Location
 2018,   Hockey,01/27/2018,7:00 PM,Home,University of Notre Dame,3M Arena at Mariucci
 2018,   Hockey,02/16/2018,8:00 PM,Home,Ohio State University,3M Arena at Mariucci
 2018,   Hockey,02/17/2018,4:00 PM,Home,Ohio State University,3M Arena at Mariucci
-2011,  Volleyball,09/02/2011,7:00 PM,Home,Texas,Maturi Pavilion
-2011,  Volleyball,09/03/2011,7:00 PM,Home,Texas,Maturi Pavilion
-2011,  Volleyball,09/23/2011,7:00 PM,Home,Illinois,Maturi Pavilion
-2011,  Volleyball,09/25/2011,1:00 PM,Home,Northwestern,Maturi Pavilion
-2011,  Volleyball,10/14/2011,7:00 PM,Home,Iowa,Maturi Pavilion
-2011,  Volleyball,10/15/2011,7:00 PM,Home,Nebraska,Williams Arena
-2011,  Volleyball,11/04/2011,8:00 PM,Home,Penn State,Maturi Pavilion
-2011,  Volleyball,11/05/2011,7:00 PM,Home,Ohio State,Maturi Pavilion
-2011,  Volleyball,11/09/2011,7:00 PM,Home,Michigan State,Maturi Pavilion
-2011,  Volleyball,11/13/2011,1:00 PM,Home,Michigan,Maturi Pavilion
-2011,  Volleyball,11/23/2011,7:00 PM,Home,Wisconsin,Maturi Pavilion
-2011,  Volleyball,11/25/2011,7:00 PM,Home,Indiana,Maturi Pavilion
-2011,  Volleyball,12/02/2011,7:30 PM,Home,North Dakota State,Maturi Pavilion
-2011,  Volleyball,12/03/2011,7:30 PM,Home,Washington,Maturi Pavilion
-2011,  Volleyball,12/09/2011,7:00 PM,Home,Iowa State,Maturi Pavilion
-2012,  Volleyball,08/31/2012,8:00 PM,Home,Long Island,Maturi Pavilion
-2012,  Volleyball,09/01/2012,10:00 AM,Home,Miami (Oh),Maturi Pavilion
-2012,  Volleyball,09/01/2012,8:00 PM,Home,Albany,Maturi Pavilion
-2012,  Volleyball,09/10/2012,7:00 PM,Home,North Dakota State,Maturi Pavilion
-2012,  Volleyball,09/28/2012,7:00 PM,Home,Ohio State,Maturi Pavilion
-2012,  Volleyball,09/29/2012,7:00 PM,Home,Penn State,Maturi Pavilion
-2012,  Volleyball,10/03/2012,7:00 PM,Home,Michigan,Maturi Pavilion
-2012,  Volleyball,10/06/2012,6:30 PM,Home,Michigan State,Maturi Pavilion
-2012,  Volleyball,10/17/2012,7:00 PM,Home,Wisconsin,Maturi Pavilion
-2012,  Volleyball,10/20/2012,7:00 PM,Home,Purdue,Maturi Pavilion
-2012,  Volleyball,10/26/2012,6:30 PM,Home,Northwestern,Maturi Pavilion
-2012,  Volleyball,10/28/2012,12:00 PM,Home,Illinois,Williams Arena
-2012,  Volleyball,11/16/2012,7:00 PM,Home,Nebraska,Maturi Pavilion
-2012,  Volleyball,11/17/2012,6:30 PM,Home,Iowa,Maturi Pavilion
-2012,  Volleyball,11/30/2012,6:30 PM,Home,Liberty,Maturi Pavilion
-2012,  Volleyball,12/01/2012,6:00 PM,Home,Creighton,Maturi Pavilion
 2013,  Volleyball,09/06/2013,7:30 PM,Home,Ball State,Maturi Pavilion
 2013,  Volleyball,09/07/2013,1:00 PM,Home,Western Illinois,Maturi Pavilion
 2013,  Volleyball,09/07/2013,7:30 PM,Home,Duke,Maturi Pavilion
