@@ -1,42 +1,35 @@
-## Lab 2 Repository
+# Predictive Traffic Modeling
 
-This repository contains notebooks for pulling sports schedules, performing data quality assurance and quality control (QAQC) on elevation, land cover, and temperature data for the state of Minnesota, generating road lines for traffic scenarios during sporting events, and pushing data into a cloud geodatabase.
+This repository contains the final project for GIS 5572, predictive traffic modeling based on University of Minnesota sporting events. The project aims to predict traffic patterns using event data from the University of Minnesota's sports events, traffic data from ESRI, and machine learning models.
 
-### Notebooks
+## Requirements
 
-1. **Sports Schedule Processing Notebook**
-   - This notebook pulls sports schedules from a specified source, formats the data, and stores it in a structured format.
-
-2. **Elevation Data QAQC Notebook**
-   - This notebook retrieves Minnesota elevation data from the Minnesota Geospatial Commons, performs quality assurance and quality control checks, and ensures data integrity.
-
-3. **Land Cover Data QAQC Notebook**
-   - This notebook retrieves Minnesota land cover data from the Minnesota Geospatial Commons,, conducts quality assurance and quality control procedures, and validates the accuracy of the data.
-
-4. **Temperature Data QAQC Notebook**
-   - This notebook gathers Minnesota temperature data from the NOAA, conducts QAQC analysis to identify anomalies or inconsistencies, and ensures data reliability.
-
-5. **Traffic Scenario Road Line Generation Notebook**
-   - This notebook generates road lines for scenarios with and without traffic during sporting events, aiding in traffic management and planning. This notebook uses the ESRI Network.
-
-6. **Cloud Geodatabase Data Pushing Notebook**
-   - This notebook pushes all processed data, including sports schedules, elevation, land cover, temperature, and road lines, into a cloud geodatabase for storage and accessibility.
-
-### Requirements
+To run this project, you will need:
 
 - Python 3.x
-- Jupyter Notebook
-- ArcGIS Pro
-- PostgreSQL Cloud Database
-- Relevant Python libraries for data processing, geospatial analysis, and database interaction
+- [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+- [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
+- [Google Cloud Run](https://cloud.google.com/run/)
+- [Flask](https://flask.palletsprojects.com/)
+- [GitHub](https://github.com/)
 
-### Note
+## Repository Structure
 
-- Each notebook contains comments explaining the code.
-- Data flow diagrams can be found in each notebook.
+The repository consists of several parts, each with a specific purpose:
 
-### Contributors (on SRS)
+1. **Get Sport Code Notebook**: 
+    - Retrieves and cleans information for sports played at the University of Minnesota.
+    - Prepares the data for use in subsequent analyses.
 
-- Greg Kohler
-- Laure Briol
-- Logan Gall
+2. **Roads Loop Notebook**:
+    - Processes traffic data for each event in the  sport list and produces a shapefile.
+    - Get initial traffic data needed for machine learning analysis.
+
+3. **Data Cleaning Notebooks**:
+    - Convert traffic line data into CSV format.
+    - Merges traffic segments with sporting event data. 
+
+4. **Machine Learning Notebooks**:
+    - Input sporting event information and road segment information into a linear regression training model.
+    - Produces traffic predictions based on three different models.
+    - Inputs into geodatabase for use in ArcGIS Online. 
