@@ -16,8 +16,8 @@ This repository contains the final project for GIS 5572, predictive traffic mode
 The repository consists of several parts, each with a specific purpose:
 
 1. **Get Sport Code Notebook**: 
-    - Retrieves and cleans information for sports played at the University of Minnesota.
-    - Prepares the data for use in subsequent analyses.
+    - Retrieves information for sports played at the University of Minnesota.
+    - Cleanes up sporting event data for use in futher analysis. 
 
 2. **Roads Loop Notebook**:
     - Processes traffic data for each event in the  sport list and produces a shapefile.
