@@ -4,8 +4,6 @@ This repository contains the final project for GIS 5572, predictive traffic mode
 
 ## Requirements
 
-To run this project, you will need:
-
 - Python 3.x
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 - [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
