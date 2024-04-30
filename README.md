@@ -17,7 +17,7 @@ The repository consists of several parts, each with a specific purpose:
 
 1. **Get Sport Code Notebook**: 
     - Retrieves information for sports played at the University of Minnesota.
-    - Cleanes up sporting event data for use in futher analysis. 
+    - Cleans up sporting event data for use in further analysis. 
 
 2. **Roads Loop Notebook**:
     - Processes traffic data for each event in the  sport list and produces a shapefile.
@@ -28,6 +28,6 @@ The repository consists of several parts, each with a specific purpose:
     - Merges traffic segments with sporting event data. 
 
 4. **Machine Learning Notebooks**:
-    - Input sporting event information and road segment information into a linear regression training model.
+    - Inputs sporting event information and road segment information into a linear regression training model.
     - Produces traffic predictions based on three different models.
     - Inputs into geodatabase for use in ArcGIS Online. 
